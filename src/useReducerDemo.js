@@ -1,4 +1,4 @@
-import React, { useReducer } from 'react';
+import React from 'react';
 import ShowArea from './showArea';
 import Buttons from './bottons';
 import { Color } from './color'
